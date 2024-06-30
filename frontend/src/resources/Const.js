@@ -1,0 +1,1 @@
+export const SERVICEURL = "localhost:7215"
